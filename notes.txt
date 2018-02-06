@@ -1,0 +1,3 @@
+Break points currently work when resizing screen on desktop. 
+
+To actually make HD tablet and mobile work, will need to add <meta name="viewport" content="width=device-width"> .  Currently this creates white space at the right edge of iPhone. Need to dive deeper to fix this. 
